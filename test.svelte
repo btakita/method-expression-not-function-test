@@ -6,5 +6,5 @@ const fn = my_str({})
 <div>{$fn}</div>
 
 <style type="text/scss">
-@import "bootstrap";
+@import "bootstrap/scss/bootstrap";
 </style>
