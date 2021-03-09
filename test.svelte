@@ -4,3 +4,7 @@ const fn = my_str({})
 </script>
 
 <div>{$fn}</div>
+
+<style type="text/scss">
+@import "bootstrap";
+</style>

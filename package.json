@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "bootstrap": "^4.6.0",
+    "sass": "^1.32.8",
+    "svelte": "^3.35.0"
+  }
+}
